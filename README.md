@@ -1,2 +1,3 @@
 # MyFirstRepo
-Repository for testing
+Repository for testing.
+This is my first commit.
